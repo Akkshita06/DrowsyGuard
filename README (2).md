@@ -13,7 +13,7 @@ No wearables. No cloud. Just your webcam.
 
 <br/>
 
-> ⚡ **94.7% accuracy · < 300ms alert latency · ~30 FPS on CPU · 2.4MB CNN model**
+ ⚡ **94.7% accuracy · < 300ms alert latency · ~30 FPS on CPU · 2.4MB CNN model**
 
 </div>
 
