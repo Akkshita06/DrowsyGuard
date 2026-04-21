@@ -1,6 +1,6 @@
 <div align="center">
 
-**Real-time drowsiness detection powered by facial landmark analysis and deep learning.**  
+##  **Real-time drowsiness detection powered by facial landmark analysis and deep learning.**  
 No wearables. No cloud. Just your webcam.
 
 <br/>
